@@ -5,7 +5,7 @@ to a professional social networking platform.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 proj3/
@@ -25,7 +25,7 @@ proj3/
 └── README.md               # ← you are here
 ```
 
-## 🔧 Setup
+##  Setup
 
 ```bash
 # 1. Create a virtual environment
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ```
 
 
-## ▶️ Running
+##  Running
 
 ```bash
 python3 main.py
@@ -70,7 +70,7 @@ The program presents an interactive menu where you choose a service by number:
 
 ---
 
-## 🗺️ Network Graph
+##  Network Graph
 
 The sample Connect-Ethio network (`data/network.txt`):
 
@@ -127,7 +127,7 @@ The sample Connect-Ethio network (`data/network.txt`):
 
 **22 users, 22 edges**
 
-## 📊 Sample Output
+##  Sample Output
 
 ### Option 1 — Display Adjacency List
 
